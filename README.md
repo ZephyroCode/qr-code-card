@@ -33,5 +33,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Zephyro Code](https://zephyrocode.netlify.app/)
-- Discord - [@Wilver#7456](https://discordapp.com/users/271083466890674176/)
+- Website - [Zephyro Code](https://zephyrocode.netlify.app/ "Zephyro Code Website")
+- Discord - [@Wilver#7456](https://discordapp.com/users/271083466890674176/ "Zephyro's Discord")
